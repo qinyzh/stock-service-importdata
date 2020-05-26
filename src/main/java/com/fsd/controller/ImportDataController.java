@@ -18,7 +18,7 @@ import com.fsd.util.ExcelUtil;
 import com.fsd.util.ResponseCode;
 import com.fsd.util.ResponseResult;
 import com.fsd.vo.SummaryInfo;
-@CrossOrigin
+
 @RestController
 public class ImportDataController {
 
